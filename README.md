@@ -33,6 +33,7 @@ I'm a web developer, linux system administrator, and aspiring data engineer deep
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/users/lusayo_ny)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?logo=Dev.to&logoColor=white)](https://dev.to/lusayo_ny)
 [![Medium](https://img.shields.io/badge/Medium-black.svg?logo=Medium&logoColor=white)](https://medium.com/@lusayo-nyondo)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?logo=Youtube&logoColor=white)](https://youtube.com/@project_sayo)
 
 ## Github Stats
 ![lusayo-nyondo's Stats](https://github-readme-stats.vercel.app/api?username=lusayo-nyondo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
