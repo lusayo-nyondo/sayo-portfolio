@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a web developer, linux system administrator, and aspiring data engineer deeply invested in the python ecosystem. More recently, I've taken on roles in social media and marketing and aspire to be a well-rounded developer and entrepreneur.
+I'm a python developer and linux system administrator deeply invested in the python ecosystem.
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
