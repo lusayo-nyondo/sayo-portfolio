@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a python developer and linux system administrator deeply invested in the python ecosystem.
+I'm a python developer and linux system administrator.
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
