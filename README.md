@@ -1,9 +1,10 @@
 # Hi there 👋
-I'm a python developer and linux system administrator.
+I'm a fullstack developer (Python, Next.js, and Flutter) and linux systems administrator.
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
-- ⚡ Interested in: Web Development, Web Scraping, Data Pipeline Development, Mobile Development.
+- ⚡ Interested in: Web Development, Web Scraping, Data Pipeline Development, Mobile Development, Desktop Development, Blockchain Development.
+- Currently, trying to teach myself all about solidity and web3.
 
 ## 👩🏾‍💻 Tech Stack 
 
