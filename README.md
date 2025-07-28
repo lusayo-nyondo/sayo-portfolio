@@ -23,7 +23,6 @@ I'm a fullstack developer (Python and Flutter) and linux systems administrator.
 ![Javascript](https://img.shields.io/badge/Javascript-%2315803D.svg?logo=Javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2315803D.svg?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2315803D.svg?logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2315803D.svg?logo=React%20Native&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2315803D.svg?logo=Tailwind%20CSS&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%2315803D.svg?logo=PHP&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-%2315803D.svg?logo=Wordpress)
