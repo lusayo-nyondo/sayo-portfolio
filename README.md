@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a fullstack developer (Python, Next.js, and Flutter) and linux systems administrator.
+I'm a fullstack developer (Python and Flutter) and linux systems administrator.
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
