@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm a fullstack developer (Python and Flutter) and linux systems administrator.
+I'm a Software Engineer proficient in Python (Django/AI/Data Engineering), Typescript(NextJS/React), and Dart (Flutter).
+
 
 - 📫 How to reach me: lusayohendy@gmail.com.
 - 😄 Pronouns: He / Him.
