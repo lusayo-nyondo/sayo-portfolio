@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-co-1",
+    "company": "Example Co.",
+    "role": "Software Engineer",
+    "period": "2023 – Present",
+    "description": "Built web and data systems end-to-end.",
+    "categories": ["Software Engineering", "Data Engineering"],
+    "technologies": ["Python", "Django", "Next.js", "Apache Kafka", "Apache Flink"],
+    "highlights": [
+      "Led development of Django/Next.js platform",
+      "Implemented Kafka/Flink streaming pipelines",
+      "Improved CI/CD and observability"
+    ]
+  },
+  {
+    "id": "startup-x",
+    "company": "Startup X",
+    "role": "Mobile Developer",
+    "period": "2021 – 2023",
+    "description": "Flutter app with offline sync and analytics.",
+    "categories": ["Software Engineering"],
+    "technologies": ["Dart", "Flutter"],
+    "highlights": [
+      "Reduced crash rate by 30%",
+      "Shipped offline-first features",
+      "Introduced automated testing"
+    ]
+  }
+]

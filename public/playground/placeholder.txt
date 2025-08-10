@@ -1,0 +1,3 @@
+Place GIFs here:
+- glassmorphism-cards.gif
+- animated-navbar-underline.gif

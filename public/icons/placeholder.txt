@@ -1,0 +1,17 @@
+Place official icons (SVG) here for technologies referenced by TechIcon.tsx.
+- typescript.svg
+- javascript.svg
+- nextjs.svg
+- react.svg
+- nodejs.svg
+- python.svg
+- django.svg
+- drf.svg
+- fastapi.svg
+- dart.svg
+- flutter.svg
+- java.svg
+- kafka.svg
+- flink.svg
+- airflow.svg
+- tailwindcss.svg

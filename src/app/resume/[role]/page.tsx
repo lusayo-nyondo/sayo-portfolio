@@ -10,14 +10,17 @@ export default async function RoleResumePage({ params }: { params: Promise<{ rol
   const role = (roles as Record<string, RoleFilter>)[roleSlug];
   if (!role) {
     return (
-      <div className="mx-auto max-w-4xl px-4 py-8">
+      <div className="py-8">
         <h1 className="text-2xl font-bold">Not Found</h1>
         <p className="opacity-80">Unknown role. Please go back to the <Link className="underline" href="/resume/">resume</Link>.</p>
       </div>
     );
   }
   return (
-    <div className="mx-auto max-w-4xl px-4 py-8 flex flex-col gap-6">
+    <div className="py-8 flex flex-col gap-6">
+      <div className="text-sm opacity-80">
+        <Link href="/resume/" className="underline">Resume</Link> / <span>{role.label}</span>
+      </div>
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold">{role.label}</h1>
         <PrintButton />

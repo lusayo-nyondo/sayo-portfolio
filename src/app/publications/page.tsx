@@ -62,7 +62,7 @@ export default async function PublicationsPage() {
   const combined = [...hashnode, ...extraPublications];
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8 flex flex-col gap-6">
+    <div className="py-8 flex flex-col gap-6">
       <h1 className="text-2xl font-bold">Publications</h1>
       {hashnode.length === 0 && (
         <p className="text-sm opacity-70">Add your Hashnode subdomain to <code>content/settings.json</code> to auto-list blog posts.</p>

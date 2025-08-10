@@ -8,7 +8,7 @@ export const dynamic = "force-static";
 export default function ResumePage() {
   const roleEntries = Object.entries(roles);
   return (
-    <div className="mx-auto max-w-4xl px-4 py-8 flex flex-col gap-6">
+    <div className="py-8 flex flex-col gap-6">
       <div className="flex items-center justify-between">
         <h1 className="text-2xl font-bold">Resume</h1>
         <PrintButton />

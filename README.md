@@ -1,4 +1,6 @@
-This is a Next.js portfolio statically exported for GitHub Pages. Content lives under `content/` as JSON.
+Hi, I'm Lusayo.
+
+I'm a Software Engineer with experience in Python (Django/FastAPI), TypeScript (Next.js/React/Node), Dart (Flutter), and Java (Kafka/Flink). I also work across Data Engineering building streaming pipelines and orchestration with Kafka, Flink, and Airflow. This repository is my personal portfolio, statically exported to GitHub Pages with a file-based CMS under `content/`.
 
 ## Getting Started
 
@@ -31,6 +33,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on GitHub Pages
 
-1. Set `NEXT_BASE_PATH` to `/<repo-name>` when exporting for Pages if your project is not at the root domain.
-2. Run `npm run build` to produce `out/`.
-3. Publish `out/` as your Pages artifact.
+This repo includes a GitHub Actions workflow at `.github/workflows/deploy.yml` that builds and deploys to GitHub Pages.
+
+- Push to `main` or `master` triggers a build.
+- If the repo is named `lusayo.github.io`, the site is built at root; otherwise the base path is set to `/<repo-name>` automatically.
+- Output is uploaded from `out/` and deployed to Pages.

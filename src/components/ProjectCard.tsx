@@ -1,4 +1,5 @@
 import React from "react";
+import { TechIcon } from "./TechIcon";
 
 type Project = {
   id: string;
@@ -34,7 +35,10 @@ export function ProjectCard({ project }: { project: Project }) {
       </div>
       <div className="flex flex-wrap gap-2 text-xs">
         {project.technologies.map((t) => (
-          <span key={t} className="rounded-full bg-black/5 dark:bg-white/10 px-2 py-0.5">{t}</span>
+          <span key={t} className="inline-flex items-center gap-1 rounded-full bg-black/5 dark:bg-white/10 px-2 py-0.5">
+            <TechIcon name={t} />
+            {t}
+          </span>
         ))}
       </div>
       {project.highlights && project.highlights.length > 0 && (

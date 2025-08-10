@@ -5,7 +5,7 @@
     "description": "Static portfolio deployed to GitHub Pages with file-based CMS.",
     "url": "",
     "repoUrl": "",
-    "categories": ["Software Engineering"],
+    "categories": ["Software Engineering", "Frontend Development"],
     "technologies": ["TypeScript", "Next.js", "React", "TailwindCSS"],
     "libraries": ["next/font", "Tailwind"],
     "highlights": [
@@ -20,7 +20,7 @@
     "description": "End-to-end event processing pipeline with Kafka topics, Flink jobs, and sink to OLAP store.",
     "url": "",
     "repoUrl": "",
-    "categories": ["Data Engineering"],
+    "categories": ["Data Engineering", "Backend Development"],
     "technologies": ["Java", "Apache Kafka", "Apache Flink"],
     "libraries": ["Kafka Streams", "Flink DataStream"],
     "highlights": [
@@ -35,7 +35,7 @@
     "description": "Automated data ingestion and transformation DAGs with sensors and SLAs.",
     "url": "",
     "repoUrl": "",
-    "categories": ["Workflow Automation", "Data Engineering"],
+    "categories": ["Workflow Automation", "Data Engineering", "Backend Development"],
     "technologies": ["Python", "Apache Airflow"],
     "libraries": ["Airflow Providers"],
     "highlights": [
@@ -50,7 +50,7 @@
     "description": "Cross-platform Flutter app with offline-first architecture.",
     "url": "",
     "repoUrl": "",
-    "categories": ["Software Engineering"],
+    "categories": ["Software Engineering", "Frontend Development"],
     "technologies": ["Dart", "Flutter"],
     "libraries": ["Riverpod"],
     "highlights": [
@@ -65,7 +65,7 @@
     "description": "RESTful backend with Django and DRF.",
     "url": "",
     "repoUrl": "",
-    "categories": ["Software Engineering"],
+    "categories": ["Software Engineering", "Backend Development"],
     "technologies": ["Python", "Django", "DRF"],
     "libraries": ["Django REST Framework", "Celery"],
     "highlights": [
