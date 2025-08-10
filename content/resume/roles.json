@@ -1,0 +1,26 @@
+{
+  "web-developer-django": {
+    "label": "Web Developer (Django-Focused)",
+    "includeCategories": ["Software Engineering"],
+    "includeTechnologies": ["Python", "Django", "DRF", "FastAPI"],
+    "summaryNote": "Django/DRF focused roles with production APIs"
+  },
+  "web-developer-nextjs": {
+    "label": "Web Developer (NextJS/React Focused)",
+    "includeCategories": ["Software Engineering"],
+    "includeTechnologies": ["TypeScript", "Next.js", "React", "Node.js", "TailwindCSS"],
+    "summaryNote": "Next.js app router, SSR/SSG, UI systems"
+  },
+  "mobile-developer-flutter": {
+    "label": "Mobile Developer (Dart/Flutter)",
+    "includeCategories": ["Software Engineering"],
+    "includeTechnologies": ["Dart", "Flutter"],
+    "summaryNote": "Flutter cross-platform apps"
+  },
+  "data-engineer": {
+    "label": "Data Engineer (Python/Java with Realtime Processing)",
+    "includeCategories": ["Data Engineering", "Workflow Automation"],
+    "includeTechnologies": ["Apache Kafka", "Apache Flink", "Apache Airflow", "Python", "Java"],
+    "summaryNote": "Streaming pipelines and orchestration"
+  }
+}

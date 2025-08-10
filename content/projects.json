@@ -1,0 +1,77 @@
+[
+  {
+    "id": "portfolio-nextjs",
+    "title": "Personal Portfolio (Next.js)",
+    "description": "Static portfolio deployed to GitHub Pages with file-based CMS.",
+    "url": "",
+    "repoUrl": "",
+    "categories": ["Software Engineering"],
+    "technologies": ["TypeScript", "Next.js", "React", "TailwindCSS"],
+    "libraries": ["next/font", "Tailwind"],
+    "highlights": [
+      "Static export for GitHub Pages",
+      "File-based content management",
+      "Projects filtering by tech and category"
+    ]
+  },
+  {
+    "id": "realtime-pipeline",
+    "title": "Real-time Pipeline with Kafka & Flink",
+    "description": "End-to-end event processing pipeline with Kafka topics, Flink jobs, and sink to OLAP store.",
+    "url": "",
+    "repoUrl": "",
+    "categories": ["Data Engineering"],
+    "technologies": ["Java", "Apache Kafka", "Apache Flink"],
+    "libraries": ["Kafka Streams", "Flink DataStream"],
+    "highlights": [
+      "Exactly-once processing",
+      "Event-time windows",
+      "Schema evolution with Avro"
+    ]
+  },
+  {
+    "id": "workflow-automation-airflow",
+    "title": "Workflow Automation on Airflow",
+    "description": "Automated data ingestion and transformation DAGs with sensors and SLAs.",
+    "url": "",
+    "repoUrl": "",
+    "categories": ["Workflow Automation", "Data Engineering"],
+    "technologies": ["Python", "Apache Airflow"],
+    "libraries": ["Airflow Providers"],
+    "highlights": [
+      "Backfills and catchup",
+      "TaskFlow API",
+      "Observability and alerting"
+    ]
+  },
+  {
+    "id": "mobile-flutter-app",
+    "title": "Mobile App (Flutter)",
+    "description": "Cross-platform Flutter app with offline-first architecture.",
+    "url": "",
+    "repoUrl": "",
+    "categories": ["Software Engineering"],
+    "technologies": ["Dart", "Flutter"],
+    "libraries": ["Riverpod"],
+    "highlights": [
+      "Offline cache",
+      "Declarative UI",
+      "CI builds"
+    ]
+  },
+  {
+    "id": "django-backend",
+    "title": "Django Backend",
+    "description": "RESTful backend with Django and DRF.",
+    "url": "",
+    "repoUrl": "",
+    "categories": ["Software Engineering"],
+    "technologies": ["Python", "Django", "DRF"],
+    "libraries": ["Django REST Framework", "Celery"],
+    "highlights": [
+      "JWT auth",
+      "Background jobs",
+      "PostgreSQL"
+    ]
+  }
+]

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lusayo Nyondo - Personal Page",
-  description: "Here's a personal page for yours truly.",
+  title: "Lusayo Nyondo — Software Engineer",
+  description: "Portfolio, projects, publications, and role-specific resumes.",
 };
 
 export default function RootLayout({
