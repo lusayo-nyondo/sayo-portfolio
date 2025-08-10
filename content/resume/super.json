@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "name": "Lusayo Nyondo",
+    "title": "Software Engineer",
+    "summary": "Engineer experienced in Python (Django/FastAPI), TypeScript (Next.js/React/Node), Dart (Flutter), Java (Kafka/Flink) and Data Engineering (Kafka, Flink, Airflow)."
+  },
+  "skills": [
+    "Python", "Django", "FastAPI", "TypeScript", "Next.js", "React", "Node.js", "Dart", "Flutter", "Java", "Apache Kafka", "Apache Flink", "Apache Airflow", "PostgreSQL", "Docker", "CI/CD"
+  ],
+  "experience": [
+    {
+      "company": "Example Co.",
+      "role": "Software Engineer",
+      "period": "2023 – Present",
+      "highlights": [
+        "Built web apps with Django and Next.js",
+        "Implemented Kafka/Flink real-time pipelines",
+        "Automated workflows in Airflow"
+      ]
+    }
+  ],
+  "education": [
+    { "degree": "BSc Computer Science", "institution": "Your University", "year": "2022" }
+  ],
+  "projects": [
+    { "refId": "portfolio-nextjs" },
+    { "refId": "realtime-pipeline" },
+    { "refId": "workflow-automation-airflow" },
+    { "refId": "mobile-flutter-app" },
+    { "refId": "django-backend" }
+  ]
+}

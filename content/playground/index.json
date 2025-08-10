@@ -1,0 +1,38 @@
+{
+  "title": "UI Playground",
+  "intro": "A collection of UI challenges and demo interactions. Click a card to view the demo or read the challenge description.",
+  "items": [
+    {
+      "slug": "glassmorphism-cards",
+      "title": "Glassmorphism Cards",
+      "gif": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B4cWNocmRpaGpqN2pqd2o0d2ZtNTYyNG9hMTM5Z2ltZW9oM25zdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif",
+      "type": "demo",
+      "categories": ["HTML/CSS", "React"],
+      "description": "Blurred cards with layered gradients and hover transitions."
+    },
+    {
+      "slug": "animated-navbar-underline",
+      "title": "Animated Navbar Underline",
+      "gif": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNucGlhMTI1OWp3eTh4a2U2YjE1d3F0cDg2eXQ3ajIzNnJ6cWhuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif",
+      "type": "challenge",
+      "categories": ["HTML/CSS"],
+      "description": "Recreate a navbar with a shared animated underline that follows hover and active states."
+    },
+    {
+      "slug": "react-animated-cards",
+      "title": "React Animated Cards",
+      "gif": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dwaDA1dXJ5eTF2eWR6ZzNya2Q1eW9rN2Y4d2t0eXdiN2x6OGZlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HU3b2O3H7JtBZoA/giphy.gif",
+      "type": "demo",
+      "categories": ["React"],
+      "description": "Interactive cards with hover parallax and spring transitions."
+    },
+    {
+      "slug": "flutter-list-animations",
+      "title": "Flutter List Animations",
+      "gif": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VlYzhrczVpeWJhcXIxY3F4cWZjcjZzZ2l2YXM1Nnd4ZDZpZXV5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEdv1GZ4q6l2oS8b6/giphy.gif",
+      "type": "demo",
+      "categories": ["Flutter"],
+      "description": "Animated list insertions and deletions using implicit animations."
+    }
+  ]
+}

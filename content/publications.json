@@ -1,0 +1,18 @@
+[
+  {
+    "id": "yt-flink-basics",
+    "type": "youtube",
+    "title": "Stream Processing Basics with Apache Flink",
+    "url": "https://www.youtube.com/watch?v=",
+    "date": "2024-01-15",
+    "platform": "YouTube"
+  },
+  {
+    "id": "article-django-next",
+    "type": "article",
+    "title": "Bridging Django APIs with Next.js Apps",
+    "url": "https://your-article-link",
+    "date": "2024-06-20",
+    "platform": "External"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "Lusayo Nyondo",
+  "title": "Software Engineer",
+  "tagline": "Python (Django/FastAPI) • TypeScript (Next.js/React/Node) • Dart (Flutter) • Java (Kafka/Flink)",
+  "summary": "Software Engineer with strong experience across web, mobile, and data engineering. Comfortable building resilient systems with Django, FastAPI, Next.js/React, Flutter, and real-time data pipelines on Kafka/Flink/Airflow.",
+  "email": "",
+  "location": "",
+  "social": {
+    "github": "",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "hashnodeHost": "your-hashnode-subdomain.hashnode.dev"
+}
